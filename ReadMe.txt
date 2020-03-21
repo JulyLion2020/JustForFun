@@ -1,47 +1,7 @@
-========================================================================
-       WIN32 APPLICATION : DlgBaseProject
-========================================================================
-´Ë¹¤³ÌÏòµ¼ÓÉÈçÅôÍø£¨www.RuPeng.com£©¿ª·¢
-ÈçÅôÍø£¨www.RuPeng.com£©£¬´óÑ§Éú¼ÆËã»úÑ§Ï°ÉçÇø£¬
-Ã¿ÖÜ¾Ù°ìÃâ·ÑÔÚÏß½²×ù£¬´óÁ¿ºÍ¼ÆËã»úÔÚĞ£ÉúÏà¹ØµÄÔ­´´ÎÄÕÂ¡¢ÊÓÆµ½Ì³ÌµÈÄãÀ´Ñ§£¡
+ä¸€ä¸ªè®©äººç»æœ›çš„Cè¯­è¨€æ¶æç¨‹åºï¼šå¿«å«å“¥ï¼Œä¸ç„¶30ç§’åè‡ªåŠ¨å…³æœºï¼ï¼ï¼
+ä½¿ç”¨VS2015+Cè¯­è¨€+Windows APIå®ç°
 
-ÄãÊÇÏ²»¶¼ÆËã»úµÄÔÚĞ£´óÑ§ÉúÂğ£¿
-ÄãÔÚÃÔ»ó¡°ÕâÃ´¶à¼¼Êõ¸ÃÔõÃ´Ñ§£¬Ñ§Ê²Ã´¸üÓĞÇ°Í¾¡±Âğ£¿
-ÄãÔÚÃÔ»ó¡°¸Ã¿¼Ê²Ã´ÈÏÖ¤±ÏÒµ²ÅºÃÕÒ¹¤×÷¡±Âğ£¿
-ÄãÏëÖªµÀÑ§Ê²Ã´¼¼Êõ±ÏÒµµÄÊ±ºò²ÅÄÜ»ñµÃÆóÒµµÄÇàíùÂğ£¿
-ÄãÔÚÃÔ»ó¼ÆËã»ú×¨Òµ±ÏÒµºóµ½µ××öÊ²Ã´Âğ£¿
+1ã€ç¨‹åºè¿è¡Œåï¼Œå¼€å§‹è‡ªåŠ¨å€’è®¡æ—¶30sï¼Œå¦‚æœ30så†…è¾“å…¥äº†â€œå“¥â€ï¼Œå¹¶ç‚¹â€œç¡®å®šâ€æŒ‰é’®ï¼Œé‚£ä¹ˆå€’è®¡æ—¶æš‚åœï¼Œç‚¹å‡»â€œå…³é—­â€åç¨‹åºé€€å‡ºï¼›
+2ã€å¦‚æœ30så†…æ²¡æœ‰è¾“å…¥â€œå“¥â€ï¼Œæˆ–è€…è¾“å…¥å…¶å®ƒå†…å®¹ï¼Œé‚£ä¹ˆä¸å¥½æ„æ€äº†ï¼Œå¼€å§‹è‡ªåŠ¨å…³æœºï¼ï¼ï¼
 
-À´¡°ÈçÅôÍø£¨www.RuPeng.com£©¡±£¬ÕâÒ»ÇĞ¶¼¿ÉÒÔ±»ÇáËÉ½â´ğ£¡
-
-
-
-AppWizard has created this hacker005 application for you.  
-
-This file contains a summary of what you will find in each of the files that
-make up your hacker005 application.
-
-hacker005.cpp
-    This is the main application source file.
-
-DlgBaseProject.dsp
-    This file (the project file) contains information at the project level and
-    is used to build a single project or subproject. Other users can share the
-    project (.dsp) file, but they should export the makefiles locally.
-	
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named hacker005.pch and a precompiled types file named StdAfx.obj.
-
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" to indicate parts of the source code you
-should add to or customize.
-
-
-/////////////////////////////////////////////////////////////////////////////
+æ˜¯ä¸æ˜¯ä¸€ä¸ªéå¸¸æœ‰ï¼ˆqianï¼‰è¶£ï¼ˆzouï¼‰çš„ç¨‹åºï¼Œå˜¿å˜¿~
